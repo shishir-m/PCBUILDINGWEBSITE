@@ -1,0 +1,53 @@
+{
+    "users": [
+      {
+        "email": "kiddo@csgo.com",
+        "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+        "id": 1
+      },
+      {
+        "email": "sneha@val.com",
+        "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+        "id": 2
+      },
+      {
+        "email": "admin@shishir.com",
+        "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+        "id": 3
+      }
+    ],
+    "products": [
+      {
+        "id": "001B",
+        "name": "NVIDIA GeForce RTX 3050 Ti",
+        "stock": 10,
+        "price": 399.99,
+        "shortDesc": "Graphics card",
+        "description": "Built on the 8 nm process, and based on the GA106 graphics processor, in its GA106-200-A1 variant, the card supports DirectX 12 Ultimate. This ensures that all modern games will run on GeForce RTX 3050 Ti. Additionally, the DirectX 12 Ultimate capability guarantees support for hardware-raytracing, variable-rate shading and more, in upcoming video games. The GA106 graphics processor is a large chip with a die area of 300 mm² and 13,250 million transistors."
+      },
+      {
+        "id": "0221C",
+        "name": "ASRock A320M-HDV R4.0",
+        "stock": 20,
+        "price": 299.99,
+        "shortDesc": "Motherboard",
+        "description": "AMD AM4 Socket 2 DIMMs, Supports DDR4 3200+(OC), 1 PCIe 3.0 x16, 1 PCIe 2.0 x1, Graphics Output : HDMI, DVI-D, D-Sub, 7.1 CH HD Audio (Realtek ALC887 Audio Codec), ELNA Audio Caps, 4 SATA3, 1 Ultra M.2 (PCIe Gen3 x4 & SATA3), 6 USB 3.1 Gen1 (2 Front, 4 Rear), Realtek Gigabit LAN, Actual support may vary by CPU."
+      },
+      {
+        "id": "001RS",
+        "name": "Adata Premier 4GB (4GBx1)",
+        "stock": 15,
+        "price": 149.99,
+        "shortDesc": "memory",
+        "description": "DDR4 2400MHz"
+      },
+      {
+        "id": "001SD",
+        "name": "Western Digital Blue SN550 500GB M.2 NVMe Internal SSD",
+        "stock": 5,
+        "price": 109.99,
+        "shortDesc": "Internal SSD",
+        "description": "Capacity, 500 GB Interface, PCIe Gen 3, Form Factor-M.2, Dimensions(L x W x H) - 3.15inch x 0.87inch x 0.09inch, Speed-2400MB/s Read  1750MB/s Write, Warranty 5 Years"
+      }
+    ]
+  }
