@@ -56,7 +56,7 @@ class AddProduct extends Component {
     const { name, price, stock, shortDesc, description } = this.state;
     const { user } = this.props.context;
 
-    return !(user && user.accessLevel < 1) ? (
+    return !(user && user.accessLevel < 2) ? (
       <Redirect to="/" />
     ) : (
       <>

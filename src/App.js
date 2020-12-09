@@ -155,7 +155,7 @@ export default class App extends Component {
       const user = {
         email,
         token: res.data.accessToken,
-        accessLevel: email === 'admin@example.com' ? 0 : 1
+        accessLevel: email === 'admin@gmail.com' ? 0 : 1
       }
   
       this.setState({ user });
